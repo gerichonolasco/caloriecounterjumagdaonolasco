@@ -3,8 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity2.xml" value="0.22" />
         <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_add_meal_window.xml" value="0.2" />
+        <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_first_meal_window.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_pop_up_window.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_second_meal_window.xml" value="0.22" />
+        <entry key="..\:/Users/Gericho Nolasco/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_third_meal_window.xml" value="0.22" />
         <entry key="..\:/Users/dieggy/AndroidStudioProjects/CalorieCounter/app/src/main/res/drawable/back.xml" value="0.176" />
         <entry key="..\:/Users/dieggy/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_add_meal_window.xml" value="0.12158054711246201" />
         <entry key="..\:/Users/dieggy/AndroidStudioProjects/CalorieCounter/app/src/main/res/layout/activity_first_meal_window.xml" value="0.264" />

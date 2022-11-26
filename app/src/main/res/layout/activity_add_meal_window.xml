@@ -5,24 +5,4 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/black"
-    tools:context=".AddMealWindow">
-
-    <FrameLayout
-        android:layout_width="327dp"
-        android:layout_height="220dp"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginEnd="40dp"
-        android:layout_marginBottom="313dp"
-        android:background="@color/white">
-
-        <TextView
-            android:layout_width="232dp"
-            android:layout_height="78dp"
-            android:text="Add Meal:"
-            android:textColor="@color/black"
-            android:textSize="34sp" />
-
-    </FrameLayout>
-
-</RelativeLayout>
+    tools:context=".AddMealWindow"/>
